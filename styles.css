@@ -7,6 +7,10 @@ h1 {
   font-style: normal;
   letter-spacing: 2cap;
 }
+button {
+  background-color: green;
+}
 body {
   color: chartreuse;
+  background-color: brown;
 }
